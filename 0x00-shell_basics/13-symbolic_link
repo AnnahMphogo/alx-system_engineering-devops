@@ -1,2 +1,2 @@
 #!/bin/bas
-ln -s /bim/ls _ls_
+ln -s /bin/ls _ls_
